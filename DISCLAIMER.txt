@@ -1,0 +1,14 @@
+This piece of software is intendeed as example of pygame use for game development.
+
+All the content used belongs to the legitimate owners.
+
+Thanks to:
+http://programarcadegames.com/python_examples/sprite_sheets/
+and:
+Tasdik Rahman
+https://github.com/tasdikrahman/spaceShooter
+
+Dangarompa is a game from Spike Chunsoft
+https://www.spike-chunsoft.com/
+and they own all the rights on the game images, characters and names.
+I don't own any rights on the game Dangarompa.
